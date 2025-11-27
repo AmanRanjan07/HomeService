@@ -1,0 +1,19 @@
+Service Images Instructions:
+
+To complete the service pages, please add the following images to this directory:
+
+1. cleaning.jpg - For cleaning services
+2. electrical.jpg - For electrical services
+3. plumbing.jpg - For plumbing services
+4. handyman.jpg - For handyman services
+5. design.jpg - For home design services
+6. construction.jpg - For construction services
+7. painting.jpg - For painting services
+8. landscaping.jpg - For landscaping services
+9. hvac.jpg - For HVAC services
+10. moving.jpg - For moving services
+11. deep-cleaning.jpg - For deep cleaning services
+12. smart-home.jpg - For smart home installation services
+
+These images should be high-quality, professionally looking photos that represent each service.
+Recommended dimensions: 800x600px or 16:9 aspect ratio. 
