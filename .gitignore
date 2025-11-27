@@ -1,0 +1,77 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React build output
+build/
+dist/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Backend build output
+backend/target/
+*.class
+
+# Maven specific files
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Eclipse specific files
+.settings/
+.classpath
+.project
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.swo
+*.orig
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Miscellaneous
+*.log
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# Ignore specific files in the backend
+backend/.factorypath
+backend/.metadata/
+
+# Ignore specific files in the frontend
+frontend/src/assets/*.jpg
+frontend/src/assets/*.png
+frontend/src/assets/*.svg
+
+# Ignore additional temporary files
+*.cache
+*.bak~
+*.tmp~
